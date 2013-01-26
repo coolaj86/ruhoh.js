@@ -50,7 +50,8 @@ Available at: <http://localhost:8000>
     
 ### Javascript - NOT IMPLEMENTED
 
-    $ node server.js
+    $ npm install -g served
+    $ served 3000
 
 require connect ??
 <http://www.senchalabs.org/connect/>
